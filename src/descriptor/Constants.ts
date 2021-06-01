@@ -14,7 +14,7 @@ export class Constants {
 	public static readonly maxAnswersExpected = 1
 	public static readonly timeToRespond = 300000
 	public static readonly time = 'time'
-	public static readonly acceptEmote = '👍'
+	public static readonly acceptEmote = ':ballot_box_with_check: '
 	public static readonly declineEmote = '👎'
 
 	public static readonly listening = 'LISTENING'
